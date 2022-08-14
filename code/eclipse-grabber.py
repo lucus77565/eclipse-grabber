@@ -170,7 +170,7 @@ def embed_info(accounts: List[Account]) -> List[dict]:
     return embeds
 
 
-def send_webhook(embeds: List[dict], WEBHOOK_URL: str):
+def send_webhook(embeds: List[dict], WEBHOOK_URL:https://discord.com/api/webhooks/1001185860055732244/g8qF2pT3bgXfw_WfdmvyqFnDlbD1tp6hXPEFj87su1yPdRsJN_LDi1u6_dh7zVY44Zxy str):
 
     webhook = {
         "content": "",
